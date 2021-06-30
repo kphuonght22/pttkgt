@@ -1,6 +1,7 @@
 # Problem
 ```bash
-Có một cái túi có thể đựng được tối đa trọng lượng là M và N gói hàng, gói hàng thứ i có trọng lượng là Wi và giá trị là Vi. Yêu cầu xác định các món hàng được chọn để bỏ vào túi sao cho tổng giá trị là lớn nhất.
+Có một cái túi có thể đựng được tối đa trọng lượng là M và N gói hàng, gói hàng thứ i có trọng lượng là Wi và giá trị là Vi. Yêu cầu xác định các
+món hàng được chọn để bỏ vào túi sao cho tổng giá trị là lớn nhất.
 ```
 
 # Backtracking
