@@ -50,7 +50,24 @@ Cac mon hang duoc chon: ...
 Tong gia tri cua cac mon hang cho vao tui: ...
 ## Demo
 
-Input  
-![bt3](https://user-images.githubusercontent.com/81338938/123503059-a9ea7080-d67a-11eb-9663-a613ca396cc3.JPG)  
-Output  
-![bt4](https://user-images.githubusercontent.com/81338938/123503061-ab1b9d80-d67a-11eb-83f9-e1cb4333634a.JPG)
+### Input  
+```bash
+nhap N: 4
+nhap M: 11
+nhap khoi luong mon hang thu 1: 3
+nhap gia tri mon hang thu 1: 4
+nhap khoi luong mon hang thu 1: 5
+nhap gia tri mon hang thu 1: 6
+nhap khoi luong mon hang thu 1: 6
+nhap gia tri mon hang thu 1: 5
+nhap khoi luong mon hang thu 1: 1
+nhap gia tri mon hang thu 1: 3
+```
+
+### Output  
+
+```bash
+cac do vat duoc chon: 4 2 1
+
+tong gia tri cua vat cho vao tui la: 13
+```
